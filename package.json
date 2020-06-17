@@ -1,0 +1,17 @@
+{
+  "name": "menunode",
+  "version": "1.0.0",
+  "description": "restaurant menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "proxy":"http://173.193.75.86:30084",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
